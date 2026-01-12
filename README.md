@@ -61,7 +61,7 @@ Jan 21st, 14:00 - 15:15 lecture, 15:30 - 16:45 TP
     * Random Forests
   * Unsupervised learning
     * k-means
-    * DBSCAN
+    * [DBSCAN](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-2025-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session3/index.html)
 
 * Lab 3 - (Unsupervised learning - k-means vs. DBSCAN)[https://github.com/jhenry-github/IMT-OSIA-content/blob/main/TPs/3%20-%20Unsupervised%20Learning.md]
 
