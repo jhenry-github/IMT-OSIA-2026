@@ -66,6 +66,18 @@ Jan 21st, 14:00 - 15:15 lecture, 15:30 - 16:45 TP
 
 * Lab 3 - (Unsupervised learning - k-means vs. DBSCAN)[https://github.com/jhenry-github/IMT-OSIA-content/blob/main/TPs/3%20-%20Unsupervised%20Learning.md]
 
+# Session 4 - Jan 13th
+  
+  * [Neural networks](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session4/index.html)
+  * Neural networks
+    * Principles
+    * Perceptrons
+    * Standard ANNs
+    * CNNs for image recognition
+
+* Lab 4 - [Keyword recognition on xG24 and Edge Impulse](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session5_lab/index.html)
+
+
 
 
     
