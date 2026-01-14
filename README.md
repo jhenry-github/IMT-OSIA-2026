@@ -77,6 +77,17 @@ Jan 21st, 14:00 - 15:15 lecture, 15:30 - 16:45 TP
 
 * Lab 4 - [Keyword recognition on xG24 and Edge Impulse](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session5_lab/index.html)
 
+# Session 5 - Jan 14th
+  
+  * [AIML on IoT with TensorFlow](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session5/index.html)
+  * Running AIML for IoT - tensorflow
+    * Supervised models on scikit learn vs tensorflow
+    * tensorflow ANNs structures
+    * CNN example with tensorflow
+
+ * Lab 5 - [Tensorflow lab, tflite export](https://github.com/jhenry-github/IMT-OSIA-content/blob/main/TPs/5%20-%20Tensorflow%20models%20for%20embedded%20systems.md)
+
+
 
 
 
