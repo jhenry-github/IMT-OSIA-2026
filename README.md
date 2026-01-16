@@ -87,6 +87,20 @@ Jan 21st, 14:00 - 15:15 lecture, 15:30 - 16:45 TP
 
  * Lab 5 - [Tensorflow lab, tflite export](https://github.com/jhenry-github/IMT-OSIA-content/blob/main/TPs/5%20-%20Tensorflow%20models%20for%20embedded%20systems.md)
 
+ # Session 6 - Jan 16th
+ 
+  * [Generative AI](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session6/index.html)
+  * Generative AI
+    * Gen AI principles
+    * Language modeling
+    * Tokenization, word embedding
+    * Transformer, self-attention, encoder, decoder
+
+  * Lab 6 - [Exploring LLMs](https://github.com/jhenry-github/IMT-OSIA-content/blob/main/TPs/6%20-%20LLMs%20intro%20for%20embedded%20systems.md)
+
+
+
+
 
 
 
