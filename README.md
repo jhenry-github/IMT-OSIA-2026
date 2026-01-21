@@ -98,6 +98,15 @@ Jan 21st, 14:00 - 15:15 lecture, 15:30 - 16:45 TP
 
   * Lab 6 - [Exploring LLMs](https://github.com/jhenry-github/IMT-OSIA-content/blob/main/TPs/6%20-%20LLMs%20intro%20for%20embedded%20systems.md)
 
+ # Session 7 - Jan 21st
+  * Lab 7 - [Building an app on xG24 and inserting a tflite model](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-content/f2e51b4331c6e172df76df717987250860b280d4/slides/Session7_lab/index.html)
+  * You will also need [netron](http://netron.app), a notebook to [record your audio](https://github.com/jhenry-github/IMT-OSIA-content/blob/main/TPs/7_Yes_no_recording.md) and [this notebook](https://colab.research.google.com/drive/1UTLr52bN988WEVVTYxruJeJSa36YfGZL?usp=sharing) to train your model.
+
+   
+  * [How to fail with an embedded AIML project](https://rawcdn.githack.com/jhenry-github/IMT-OSIA-content/0bd7d8c77335e44c5958873140cade01ddc4e368/slides/Session7/index.html)
+
+
+
 
 
 
